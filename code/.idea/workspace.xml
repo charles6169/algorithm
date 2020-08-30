@@ -1,0 +1,1765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94a23304-9c9d-4b86-abf4-798e4dd2afe8" name="默认" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/AlgorithmLeet$Array.ic" NAME="Array Coverage Results" MODIFIED="1583486744442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>DataStructure.Array.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LeetCodeDemo$Tree.ic" NAME="Tree Coverage Results" MODIFIED="1592298608736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>DataStructure.Tree.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/AlgorithmLeet$DFS.ic" NAME="DFS Coverage Results" MODIFIED="1583831021936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Algorithm.DFS.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/AlgorithmLeet$character.ic" NAME="character Coverage Results" MODIFIED="1583833435372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>DataStructure.CharacterString.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LeetCodeDemo$Main1.ic" NAME="Main1 Coverage Results" MODIFIED="1589979190378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>examination.huawei.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LeetCodeDemo$Main2__1_.ic" NAME="Main2 (1) Coverage Results" MODIFIED="1592817803990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Examination.tencent.internship2018.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="180" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-409512796">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="59" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="16" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.31" value="5" />
+          <entry key="project.open.time.32" value="3" />
+          <entry key="project.open.time.33" value="3" />
+          <entry key="project.open.time.34" value="4" />
+          <entry key="project.open.time.35" value="4" />
+          <entry key="project.open.time.36" value="3" />
+          <entry key="project.open.time.37" value="2" />
+          <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.41" value="2" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="63" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Map" value="1" />
+          <entry key="MinArray" value="1" />
+          <entry key="TreeSet" value="2" />
+          <entry key="class" value="3" />
+          <entry key="java" value="574" />
+          <entry key="properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="JAVA" value="574" />
+          <entry key="Properties" value="1" />
+          <entry key="UML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="dummy" value="69" />
+          <entry key="java" value="68207" />
+          <entry key="properties" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="68207" />
+          <entry key="PLAIN_TEXT" value="69" />
+          <entry key="Properties" value="15" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="557205637">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="45" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.1" value="11" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.29" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.31" value="2" />
+          <entry key="project.open.time.32" value="6" />
+          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.34" value="4" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.37" value="2" />
+          <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.41" value="2" />
+          <entry key="project.open.time.42" value="2" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.52" value="2" />
+          <entry key="project.open.time.54" value="2" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="64" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Stack" value="1" />
+          <entry key="class" value="3" />
+          <entry key="java" value="245" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="JAVA" value="245" />
+          <entry key="UML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="50" />
+          <entry key="java" value="59845" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="59845" />
+          <entry key="PLAIN_TEXT" value="50" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AlgorithmLeet" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure/Array/ArrayDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2646">
+              <caret line="103" column="10" selection-start-line="103" selection-start-column="10" selection-end-line="103" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JavaSESrc/jdk8_source/java/util/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="48" column="26" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../JavaSESrc/jdk8_source/java/util/Vector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="80" column="15" lean-forward="true" selection-start-line="80" selection-start-column="15" selection-end-line="80" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algorithm/Sort/Sort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="28" column="56" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure/Tree/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure/stack/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Examination/tencent/autumn2020/Main2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1269">
+              <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algorithm/DFS/DFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1620">
+              <caret line="66" column="54" selection-start-line="66" selection-start-column="54" selection-end-line="66" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure/SingleLinkedList/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>HeroNode</find>
+      <find>vector</find>
+      <find>keyRange</find>
+      <find>length</find>
+      <find>virtual</find>
+      <find>nums_0</find>
+      <find>TinyWebServiceLog</find>
+      <find>re</find>
+      <find>charArray</find>
+      <find>Integer</find>
+      <find>InputStream</find>
+      <find>rightLook</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ListNode</replace>
+      <replace>Vector</replace>
+      <replace>Base</replace>
+      <replace>dummy</replace>
+      <replace>zero</replace>
+      <replace>Node</replace>
+      <replace>path</replace>
+      <replace>Look</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/DataStructure/Tree/GoodNodes.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/SingleLinkedList/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Tree/Flatten.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Tree/BuildTree1.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Tree/BuildTree2.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Tree/SumNumbers.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Tree/RightSideView.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Tree/MaxAncestorDiff.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Tree/LargestValues.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Tree/DistanceK.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Tree/Tree.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/window/FindAnagrams.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/window/Window.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/window/MinWindow.java" />
+        <option value="$PROJECT_DIR$/src/Examination/bytedance/springexam2019/Main6.java" />
+        <option value="$PROJECT_DIR$/src/Examination/bytedance/springexam2019/Main1.java" />
+        <option value="$PROJECT_DIR$/src/Examination/bytedance/springexam2019/Main2.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Tree/ConvertBST1.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/DFS/Permutation.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/DFS/NumTilePossibilities.java" />
+        <option value="$PROJECT_DIR$/src/Examination/tencent/internship2018/Main1.java" />
+        <option value="$PROJECT_DIR$/src/Examination/tencent/internship2018/Main2.java" />
+        <option value="$PROJECT_DIR$/src/Examination/tencent/autumn2020/Main2.java" />
+        <option value="$PROJECT_DIR$/src/Examination/tencent/autumn2020/Main1.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/stack/DailyTemperatures.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/stack/NextGreaterElementI.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/stack/nextGreaterElementsII.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/stack/Stack.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/stack/NextGreaterElementIII.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Tree/Node.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/DFS/DFS.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Tree/MaxDepth1.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/DFS/Permutation1.java" />
+        <option value="$PROJECT_DIR$/src/Examination/bytedance/recruitment2018/Main1.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Sort/Sort.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Sort/SortDemo.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/SkipListNode/SkipListNode.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/SkipListNode/SkipList.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/SkipListNode/Main.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/DP/Holiday.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/stack/TrueAndFalse.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/DFS/OrderAllocation.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Array/DoubleD.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/DP/ProductOf.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/DP/Bitcoins.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Search/CatFood.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/DP/Hopscotch.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/greed/Candy.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Math/Good.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Array/Array.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/Array/ArrayDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\1_Dev\Tools\apache-maven-3.3.9\respository" />
+        <option name="mavenHome" value="D:/Tools/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\1_Dev\Tools\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Ant</id>
+          </State>
+          <State>
+            <id>Application Servers</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Faces Model</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Hibernate</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>JBoss Seam</id>
+          </State>
+          <State>
+            <id>JPA</id>
+          </State>
+          <State>
+            <id>JSON</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java EE</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Struts</id>
+          </State>
+          <State>
+            <id>Struts 1Struts</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>UI Form</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Validity issuesGroovy</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+          <State>
+            <id>YAML</id>
+          </State>
+          <State>
+            <id>初始化Java</id>
+          </State>
+          <State>
+            <id>可能的错误Java</id>
+          </State>
+          <State>
+            <id>国际化Java</id>
+          </State>
+          <State>
+            <id>声明冗余Java</id>
+          </State>
+          <State>
+            <id>属性文件</id>
+          </State>
+          <State>
+            <id>常规</id>
+          </State>
+          <State>
+            <id>拼写</id>
+          </State>
+          <State>
+            <id>控制流问题Java</id>
+          </State>
+          <State>
+            <id>控制流问题JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>拼写</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeetCodeDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Math" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="SkipListNode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="LeetCodeDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="LeetCodeDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Data&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/DataInputStream.java&#10;Filter&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/FilterInputStream.java&#10;FIle&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/FileInputStream.java&#10;ExtensionClassLoader&#9;PSI&#9;JAVA://sun.misc.ExtensionDependency#addNewExtensionsToClassLoader&#10;addAll&#9;null&#9;null&#10;;&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595733673776" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../WorkSpace/rmipWorkSpace/uddiWorkSpace/uddi" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DataStructure.CharacterString" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\1_Dev\LeetCode\Algorithm\AlgorithmLeet\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Candy">
+    <configuration name="Bitcoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.DP.Bitcoins" />
+      <module name="AlgorithmLeet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Candy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.greed.Candy" />
+      <module name="AlgorithmLeet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.greed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CatFood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Search.CatFood" />
+      <module name="AlgorithmLeet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.Search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hopscotch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.DP.Hopscotch" />
+      <module name="AlgorithmLeet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.DP.ProductOf" />
+      <module name="AlgorithmLeet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ProductOf" />
+      <item itemvalue="Application.Bitcoins" />
+      <item itemvalue="Application.CatFood" />
+      <item itemvalue="Application.Hopscotch" />
+      <item itemvalue="Application.Candy" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Candy" />
+        <item itemvalue="Application.Hopscotch" />
+        <item itemvalue="Application.CatFood" />
+        <item itemvalue="Application.Bitcoins" />
+        <item itemvalue="Application.ProductOf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94a23304-9c9d-4b86-abf4-798e4dd2afe8" name="默认" comment="" />
+      <created>1580521688708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580521688708</updated>
+      <workItem from="1580521691384" duration="13359000" />
+      <workItem from="1580610219398" duration="8123000" />
+      <workItem from="1580695464172" duration="8510000" />
+      <workItem from="1580780600768" duration="5227000" />
+      <workItem from="1580868548715" duration="8040000" />
+      <workItem from="1581038193993" duration="1281000" />
+      <workItem from="1581910869563" duration="8114000" />
+      <workItem from="1581987657495" duration="9504000" />
+      <workItem from="1582007009217" duration="9734000" />
+      <workItem from="1582073798889" duration="9226000" />
+      <workItem from="1582092527673" duration="10977000" />
+      <workItem from="1582105484309" duration="1944000" />
+      <workItem from="1582159907945" duration="8137000" />
+      <workItem from="1582179587875" duration="12359000" />
+      <workItem from="1582246314548" duration="13109000" />
+      <workItem from="1582505676021" duration="10847000" />
+      <workItem from="1582532453378" duration="5802000" />
+      <workItem from="1582538357539" duration="1620000" />
+      <workItem from="1582591848362" duration="22857000" />
+      <workItem from="1582678562110" duration="24402000" />
+      <workItem from="1582765118750" duration="5225000" />
+      <workItem from="1582785982401" duration="1668000" />
+      <workItem from="1583133462292" duration="10847000" />
+      <workItem from="1583150816001" duration="1150000" />
+      <workItem from="1583197034878" duration="1233000" />
+      <workItem from="1583219108709" duration="13818000" />
+      <workItem from="1583283693197" duration="974000" />
+      <workItem from="1583306318055" duration="11563000" />
+      <workItem from="1583369802304" duration="597000" />
+      <workItem from="1583392032010" duration="12274000" />
+      <workItem from="1583456407233" duration="12623000" />
+      <workItem from="1583738580789" duration="6383000" />
+      <workItem from="1583824096183" duration="11768000" />
+      <workItem from="1583908734983" duration="10699000" />
+      <workItem from="1583923586622" duration="27000" />
+      <workItem from="1583998674689" duration="3186000" />
+      <workItem from="1584061380724" duration="2646000" />
+      <workItem from="1584354260399" duration="686000" />
+      <workItem from="1584407789877" duration="649000" />
+      <workItem from="1584603340006" duration="5281000" />
+      <workItem from="1584666607651" duration="599000" />
+      <workItem from="1584949015056" duration="3544000" />
+      <workItem from="1585030733974" duration="7374000" />
+      <workItem from="1585098471960" duration="3320000" />
+      <workItem from="1585556428822" duration="5442000" />
+      <workItem from="1585616910111" duration="234000" />
+      <workItem from="1585643932276" duration="3072000" />
+      <workItem from="1585703229623" duration="1384000" />
+      <workItem from="1585727361869" duration="1912000" />
+      <workItem from="1585789551660" duration="1215000" />
+      <workItem from="1585813952483" duration="3443000" />
+      <workItem from="1586246234686" duration="3496000" />
+      <workItem from="1586312256339" duration="1198000" />
+      <workItem from="1586438387114" duration="1229000" />
+      <workItem from="1586487817144" duration="6469000" />
+      <workItem from="1586738994237" duration="4385000" />
+      <workItem from="1586825115266" duration="116000" />
+      <workItem from="1586851936111" duration="1519000" />
+      <workItem from="1586912057373" duration="234000" />
+      <workItem from="1587448355365" duration="934000" />
+      <workItem from="1587533614435" duration="597000" />
+      <workItem from="1587908349661" duration="1257000" />
+      <workItem from="1587967254877" duration="4373000" />
+      <workItem from="1587979063725" duration="1681000" />
+      <workItem from="1587983904686" duration="600000" />
+      <workItem from="1587984534973" duration="4538000" />
+      <workItem from="1587989486576" duration="233000" />
+      <workItem from="1588034357074" duration="100000" />
+      <workItem from="1588121546979" duration="7975000" />
+      <workItem from="1588131325439" duration="47000" />
+      <workItem from="1588141008104" duration="3737000" />
+      <workItem from="1588856107140" duration="1454000" />
+      <workItem from="1588898681910" duration="2268000" />
+      <workItem from="1589159107541" duration="14648000" />
+      <workItem from="1589200967368" duration="1241000" />
+      <workItem from="1589272036277" duration="2380000" />
+      <workItem from="1589362514263" duration="858000" />
+      <workItem from="1589437898754" duration="8568000" />
+      <workItem from="1589503676996" duration="410000" />
+      <workItem from="1589529343376" duration="1708000" />
+      <workItem from="1589763383073" duration="678000" />
+      <workItem from="1589784844537" duration="7419000" />
+      <workItem from="1589849448041" duration="1199000" />
+      <workItem from="1589867237817" duration="5040000" />
+      <workItem from="1589935662999" duration="357000" />
+      <workItem from="1589954446402" duration="6705000" />
+      <workItem from="1589971753610" duration="9193000" />
+      <workItem from="1590022593694" duration="2671000" />
+      <workItem from="1590051453217" duration="2695000" />
+      <workItem from="1590109048819" duration="784000" />
+      <workItem from="1590128639081" duration="3710000" />
+      <workItem from="1590472752389" duration="6751000" />
+      <workItem from="1590647471946" duration="6811000" />
+      <workItem from="1590731461835" duration="13325000" />
+      <workItem from="1590974095768" duration="1512000" />
+      <workItem from="1590991718395" duration="2315000" />
+      <workItem from="1591059112885" duration="7403000" />
+      <workItem from="1591146835337" duration="3389000" />
+      <workItem from="1591263776418" duration="1318000" />
+      <workItem from="1591339665984" duration="3637000" />
+      <workItem from="1591598236104" duration="6028000" />
+      <workItem from="1591685865710" duration="3931000" />
+      <workItem from="1591751619273" duration="8422000" />
+      <workItem from="1591840420820" duration="8044000" />
+      <workItem from="1591926736219" duration="4733000" />
+      <workItem from="1592208840004" duration="2071000" />
+      <workItem from="1592211123472" duration="599000" />
+      <workItem from="1592287466453" duration="9184000" />
+      <workItem from="1592355487631" duration="10982000" />
+      <workItem from="1592441898956" duration="8125000" />
+      <workItem from="1592527963232" duration="1203000" />
+      <workItem from="1592547776574" duration="10748000" />
+      <workItem from="1592787773541" duration="8190000" />
+      <workItem from="1592873351011" duration="7520000" />
+      <workItem from="1592978927441" duration="6812000" />
+      <workItem from="1593325718736" duration="2981000" />
+      <workItem from="1593597060031" duration="1349000" />
+      <workItem from="1593653811953" duration="3733000" />
+      <workItem from="1593759614549" duration="995000" />
+      <workItem from="1594022242372" duration="3513000" />
+      <workItem from="1594107205283" duration="5724000" />
+      <workItem from="1594195650472" duration="2849000" />
+      <workItem from="1594282828629" duration="3004000" />
+      <workItem from="1594627568944" duration="1909000" />
+      <workItem from="1595733518347" duration="749000" />
+      <workItem from="1596007784431" duration="876000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="627447000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="设计器" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.23719376" side_tool="true" weight="0.1444563" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.76280624" visible="true" weight="0.13326226" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295838" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3464567" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4988864" weight="0.3295838" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4988864" weight="0.32845894" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011136" side_tool="true" weight="0.3295838" />
+      <window_info anchor="bottom" id="调试" order="11" weight="0.4791901" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3295838" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4969697" weight="0.24922839" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="调色板" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32918397" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32603407" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5030303" side_tool="true" weight="0.24744186" />
+      <window_info anchor="right" id="Structure" order="10" sideWeight="0.23719376" weight="0.27833754" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/Search/MissingNumber.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/Queue/Queue.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/Array/FindNumberIn2DArray.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Examination/zhaoyin/Main1.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Examination/bytedance/internship2020/Main1.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Examination/bytedance/internship2020/Main3.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Examination/bytedance/internship2020/Main2.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Examination/bytedance/internship2020/Main4.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/Search/Intersection.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/character/RepeatedStringMatch.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/character/RepeatedStringMatch.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/Search/SearchDemo.java</url>
+          <line>129</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/Search/CountNegatives.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Examination/huawei/Main2.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Examination/huawei/Main1.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/Sort/SortDemo.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/character/ReverseString.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/SingleLinkedList/SwapPairs.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/Array/Array.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/DFS/LetterCombinations.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/DFS/Combine.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/DFS/Subsets.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/DFS/SubsetsWithDup.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CommonTest.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/character/CountSegments.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/DFS/CombinationSum4.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/DP/CountSubstrings.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/Tree/PathSum.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/DFS/HasPath.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/DP/JumpFloor.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/Tree/SumNumbers.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/window/MinWindow.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Examination/bytedance/springexam2019/Main1.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Examination/bytedance/springexam2019/Main2.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/DFS/Permutation.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/DFS/NumTilePossibilities.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Examination/tencent/internship2018/Main2.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Examination/tencent/autumn2020/Main1.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Examination/tencent/autumn2020/Main2.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Examination/tencent/autumn2020/Main2.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/stack/DailyTemperatures.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/DFS/Permutation1.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Examination/bytedance/recruitment2018/Main1.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/stack/TrueAndFalse.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/Array/DoubleD.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/DP/ProductOf.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="head" />
+        <watch expression="S" />
+        <watch expression="res" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>temp.toString()==&quot;A&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Examination/bytedance.java" />
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/window/MinWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/window/FindAnagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaSESrc/jdk8_source/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21519">
+          <caret line="830" selection-start-line="830" selection-end-line="830" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Examination/bytedance/springexam2019/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Examination/bytedance/springexam2019/Main6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaSESrc/jdk8_source/java/util/ArrayDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6831">
+          <caret line="290" selection-start-line="290" selection-end-line="290" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/window/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Examination/bytedance/springexam2019/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/Tree/ConvertBST1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/DFS/Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/DFS/NumTilePossibilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Examination/tencent/temp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Examination/tencent/internship2018/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Examination/tencent/internship2018/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Examination/tencent/autumn2020/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/stack/DailyTemperatures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/stack/NextGreaterElementI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaSESrc/jdk8_source/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50733">
+          <caret line="1958" selection-start-line="1958" selection-end-line="1958" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/stack/nextGreaterElementsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/stack/NextGreaterElementIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/Tree/TreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/Tree/MaxDepth1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="32" column="22" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/DFS/Permutation1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Examination/bytedance/recruitment2018/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Sort/SortDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3537">
+          <caret line="131" column="28" selection-start-line="131" selection-start-column="28" selection-end-line="131" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/SkipListNode/SkipListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/SkipListNode/SkipList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1944">
+          <caret line="76" column="33" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/DP/Holiday.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/SkipListNode/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/stack/TrueAndFalse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/DFS/OrderAllocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/Array/DoubleD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/DP/ProductOf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="62" column="25" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/DP/Bitcoins.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="23" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Search/CatFood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/DP/Hopscotch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/greed/Candy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Math/Good.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/stack/ArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/Array/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.Stack">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.Stack</OriginalElement>
+          <nodes>
+            <node x="0.0" y="240.0">java.util.RandomAccess</node>
+            <node x="156.0" y="240.0">java.lang.Cloneable</node>
+            <node x="234.25" y="160.0">java.util.AbstractCollection</node>
+            <node x="407.25" y="160.0">java.util.List</node>
+            <node x="296.5" y="320.0">java.util.Vector</node>
+            <node x="331.06818181818187" y="80.0">java.util.Collection</node>
+            <node x="282.0" y="240.0">java.util.AbstractList</node>
+            <node x="300.0" y="400.0">java.util.Stack</node>
+            <node x="337.06818181818187" y="0.0">java.lang.Iterable</node>
+            <node x="468.0" y="240.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.Vector" target="java.io.Serializable">
+              <point x="34.39999999999998" y="-15.0" />
+              <point x="373.9" y="300.0" />
+              <point x="525.0" y="300.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.Vector" target="java.util.AbstractList">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.Vector" target="java.lang.Cloneable">
+              <point x="-17.19999999999999" y="-15.0" />
+              <point x="322.3" y="290.0" />
+              <point x="209.0" y="290.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.Vector" target="java.util.List">
+              <point x="17.19999999999999" y="-15.0" />
+              <point x="356.7" y="290.0" />
+              <point x="457.5" y="290.0" />
+              <point x="16.75" y="15.0" />
+            </edge>
+            <edge source="java.util.List" target="java.util.Collection">
+              <point x="0.0" y="-15.0" />
+              <point x="440.75" y="135.0" />
+              <point x="409.81818181818187" y="135.0" />
+              <point x="26.25" y="15.0" />
+            </edge>
+            <edge source="java.util.AbstractList" target="java.util.List">
+              <point x="28.75" y="-15.0" />
+              <point x="368.25" y="215.0" />
+              <point x="424.0" y="215.0" />
+              <point x="-16.75" y="15.0" />
+            </edge>
+            <edge source="java.util.Stack" target="java.util.Vector">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.Collection" target="java.lang.Iterable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
+              <point x="-28.75" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.Vector" target="java.util.RandomAccess">
+              <point x="-34.39999999999998" y="-15.0" />
+              <point x="305.1" y="300.0" />
+              <point x="68.0" y="300.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.AbstractCollection" target="java.util.Collection">
+              <point x="0.0" y="-15.0" />
+              <point x="310.75" y="135.0" />
+              <point x="357.31818181818187" y="135.0" />
+              <point x="-26.25" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-283.0" y="32.0" />
+          <SelectedNodes>
+            <node>java.io.Serializable</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/Array/ArrayDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2646">
+          <caret line="103" column="10" selection-start-line="103" selection-start-column="10" selection-end-line="103" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaSESrc/jdk8_source/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Sort/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" column="56" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/Tree/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/stack/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Examination/tencent/autumn2020/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/DFS/DFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="66" column="54" selection-start-line="66" selection-start-column="54" selection-end-line="66" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/SingleLinkedList/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaSESrc/jdk8_source/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="80" column="15" lean-forward="true" selection-start-line="80" selection-start-column="15" selection-end-line="80" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AlgorithmLeet</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
